@@ -1,3 +1,5 @@
+import Point from './point'
+
 const p1 = new Point(5, 5);
 const p2 = new Point(10, 10);
 p1.distance; //undefined
